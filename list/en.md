@@ -1,40 +1,40 @@
 ---
-title: Simple Metagon Guide - English
+title: Metagon-Anleitung - Deutsch
 ---
 
-## How to use the bot?
+## Wie benutzt man den Bot?
 
-1. You can add the bot by clicking the appriopriate platform you use from [this page](../).
-2. On most platforms (See `start` command below), you can type `start` and you'll be able to use all functions using keyboard mode.
-3. On platforms that `start` command are not available, you'll have to use the commands below.
+1. Du kannst den Bot hinzufügen, indem du die entsprechende Platform auf [this page] anklickst.(../).
+2. Bei den meisten Platformen kannst du dem Bot einfach `start` schreiben, um alle Funktionen mit der Tastatur nutzen zu können. (Weitere Infos zum Start-Command unten)
+3. Auf Platformen, wo der `start`-Befehl nicht verfügbar ist, musst du die untenstehenden Befehle benutzen.
 
-## List of All Commands
-All commands have the `/` prefix (Or `@Metagon ` prefix in Skype groups)
+## Liste aller Befehle
+Alle Befehle haben den `/`-Prefix, oder `@Metagon` in Skype-Gruppe.
 
-| Command | Description | Note |
+| Befehl | Beschreibung | Anmerkung |
 | --- | --- | --- |
-| start | Keyboard Mode Entry | Not available on GroupMe, Skype for Business, and VK. |
-| 9gag \<Section\> <Hot/Fresh> | Get a random post from a 9gag section | |
-| 9gag search <Query> | Search for posts on 9gag | |
-| bunny | Random Bunny Image/Video | |
-| cat | Random Cat Image | |
-| design | Random designer quote | |
-| deviantart <Query> | Search for images from DeviantArt | Not available on Kik |
-| dog | Random Dog Image | |
-| expand | Expand a Bitly link | |
-| flickr | Search for photos from Flickr | Not available on Kik |
-| hug | Get an Anime hug | |
-| [imgur \<Query\>](../images#imgur) | Search for images from Imgur | Not available on Kik |
-| joke | Random Chuck Norris joke | |
-| kiss | Anime kiss! uwu | |
-| mcserver <Address> | Check status of a Minecraft server | |
-| mcuser <Username/UUID> | Get info of a Minecraft user | |
-| paste <Content> | Paste contents to pastebin.com | |
-| pat | Get an Anime pat | |
-| [pixiv \<Query\>](../images#pixiv) | Search for images from pixiv.net | Will ask for NSFW filter, not available on Kik |
-| shorten <Link> | Shorten links via Bitly | |
-| smug | Show an Anime smug | |
-| snake | Random Snake Image | |
-| ud <Word> | Define a word in Urban Dictionary | |
-| weather <Place> | Weather forecast for a place | |
-| yoda | Random Yoda quote | |
+| start | Tastatureingabe | Nicht verfügbar auf GroupMe, Skype for Business und VK |
+| 9gag \<Section\> <Hot/Fresh> | Postet einen zufälligen post aus der angegebenen 9gag Section | |
+| 9gag search <Query> | Suche nach 9gag-Posts | |
+| bunny | Zufälliges Hasen-Video/Foto | |
+| cat | Zufälliges Katzenbild | |
+| design | Zufälliges designer-Zitat | |
+| deviantart <Suchbegriff> | Suche nach Bildern auf DeviantArt | Nicht verfügbar auf Kik |
+| dog | Zufälliges Hundebild | |
+| expand | Löse einen Bitly Link auf | |
+| flickr | Suche nach Fotos auf Flickrr | Nicht verfügbar auf Kik |
+| hug | Bekomme eine Anime-Umarmung | |
+| [imgur \<Begriff\>](../images#imgur) | Suche nach Bildern auf Imgur | Nicht verfügbar auf Kik |
+| joke | Zufälliger Chuck Norris Witz | |
+| kiss | Anime Kuss! uwu | |
+| mcserver <Addresse> | Checke den Status eines Minecraft-Servers | |
+| mcuser <benutzername/UUID> | Suche nach Infos über einen Minecraft Spieler | |
+| paste <Inhalt> | Füge den Inhalt auf pastebin.com ein | |
+| pat | Bekomme ein Anime-Schulterklopfen | |
+| [pixiv \<Query\>](../images#pixiv) | Suche nach Bildern auf pixiv.net | Fragt nach NSFW-Filter, nicht verfügbar auf Kik |
+| shorten <Link> | Kürze Links via Bitly | |
+| smug | Zeige einen Anime-Smug | |
+| snake | Zufälliges Schlangenbild | |
+| ud <Wort> | Erkläre ein Wort mit Urban Dictionary | |
+| weather <Ort> | Wetterbericht für den angegebenen Ort | |
+| yoda | Zufälliges Yoda-Zitat | |
